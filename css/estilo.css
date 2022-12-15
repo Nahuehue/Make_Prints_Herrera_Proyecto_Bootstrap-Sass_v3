@@ -1,0 +1,136 @@
+.bg-neg {
+  background-color: black; }
+
+.bg-bla {
+  background-color: white; }
+
+.bg-dor {
+  background: linear-gradient(to bottom, rgba(255, 217, 0, 0.678), transparent); }
+
+.bg-neg {
+  background-color: black; }
+
+.bg-bla {
+  background-color: white; }
+
+.bg-dor {
+  background: linear-gradient(to bottom, rgba(255, 217, 0, 0.678), transparent); }
+
+li a {
+  background-color: linear-gradient(to bottom, rgba(255, 217, 0, 0.678), transparent);
+  margin: 2px; }
+
+li a:hover {
+  background-color: gold;
+  color: black; }
+
+.div_form {
+  display: inline-block;
+  padding: 30px;
+  background: linear-gradient(to bottom, rgba(255, 217, 0, 0.678), transparent);
+  margin: 10px; }
+
+@media only screen and (min-width: 1024px) {
+  .mapa {
+    height: 600px; } }
+
+@media screen and (max-width: 768px) {
+  .mapa {
+    height: 300px; } }
+
+input, .input-env {
+  width: 100px;
+  transition: all 0.5ms;
+  background-color: white;
+  height: 50px;
+  border-radius: 20px;
+  padding: 4px 10px;
+  margin: 10px;
+  text-align: start;
+  color: black;
+  border: 1px solid black; }
+
+textarea, .text-area-Encar, .text-area-rellen {
+  width: 100px;
+  transition: all 0.5ms;
+  background-color: white;
+  height: 50px;
+  border-radius: 20px;
+  padding: 4px 10px;
+  margin: 10px;
+  text-align: center;
+  color: black;
+  border: 1px solid black; }
+
+.input-env {
+  width: 100px;
+  transition: all 0.5ms; }
+  .input-env:focus {
+    width: 130px;
+    transition: all 0.5ms;
+    font-size: 1.1rem;
+    background-color: green; }
+
+.text-area-Encar {
+  width: 250px;
+  height: 250px;
+  text-align: start;
+  transition: all 0.5ms; }
+  .text-area-Encar:focus {
+    width: 400px;
+    font: size 1.3rem; }
+
+.text-area-rellen {
+  text-align: start;
+  transition: all 0.5ms; }
+  .text-area-rellen:focus {
+    width: 230px;
+    font: size 1.3rem; }
+
+.bg-neg {
+  background-color: black; }
+
+.bg-bla {
+  background-color: white; }
+
+.bg-dor {
+  background: linear-gradient(to bottom, rgba(255, 217, 0, 0.678), transparent); }
+
+li a {
+  background-color: linear-gradient(to bottom, rgba(255, 217, 0, 0.678), transparent);
+  margin: 2px; }
+
+li a:hover {
+  background-color: gold;
+  color: black; }
+
+.div_form {
+  display: inline-block;
+  padding: 30px;
+  background: linear-gradient(to bottom, rgba(255, 217, 0, 0.678), transparent);
+  margin: 10px; }
+
+h1 {
+  color: whitesmoke;
+  font-style: "Times New Roman";
+  text-align: center; }
+
+h2 {
+  color: whitesmoke;
+  font-style: "Times New Roman";
+  text-align: center; }
+
+h3 {
+  color: whitesmoke;
+  font-style: "Times New Roman";
+  text-align: center; }
+
+h4 {
+  color: black;
+  font-style: italic;
+  text-align: center; }
+
+p {
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px; }
